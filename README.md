@@ -14,18 +14,6 @@ RadialFocus introduces a geometry-aware Graph Transformer that uses a lightweigh
 
 ---
 
-## Usage
-
-Run training or evaluation with:
-
-```bash
-python main.py --config configs/pcqm4mv2.yaml
-```
-
-Example configurations are available in the `configs/` directory.
-
----
-
 ## Citation
 
 If you use this code, please cite our paper:
