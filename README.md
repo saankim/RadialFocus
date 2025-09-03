@@ -7,12 +7,8 @@ _San Kim, Seungjun Lee, Sichan Oh, Jaekwang Kim_
 Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM 2025), Seoul, Republic of Korea.
 [DOI: 10.1145/3746252.3760877](https://doi.org/10.1145/3746252.3760877)
 
----
-
 ## Overview
 RadialFocus introduces a geometry-aware Graph Transformer that uses a lightweight, distance-modulated attention mechanism with learnable radial basis functions. It achieves state-of-the-art results on molecular property prediction and general graph benchmarks with significantly fewer parameters.
-
----
 
 ## Citation
 
